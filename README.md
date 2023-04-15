@@ -13,6 +13,9 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款06：若不想使用编译器自动生成的函数，就该明确拒绝](/EffectiveCpp/Chapter2/06.md)
   - [条款07：为多态基类声明virtual析构函数](/EffectiveCpp/Chapter2/07.md)
   - [条款08：别让异常逃离析构函数](/EffectiveCpp/Chapter2/08.md)
+  - [条款09：绝不在构造和析构过程中调用virtual函数](/EffectiveCpp/Chapter2/09.md)
+  - [条款10：令operator=返回一个reference to `*this`](/EffectiveCpp/Chapter2/10.md)
+  - [条款11：在operator=中处理“自我赋值”](/EffectiveCpp/Chapter2/11.md)
 
 ## More Effective C++ |> Content
 
