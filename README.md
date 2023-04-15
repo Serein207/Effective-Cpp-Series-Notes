@@ -12,6 +12,7 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款05：了解C++默默编写并调用哪些函数](/EffectiveCpp/Chapter2/05.md)
   - [条款06：若不想使用编译器自动生成的函数，就该明确拒绝](/EffectiveCpp/Chapter2/06.md)
   - [条款07：为多态基类声明virtual析构函数](/EffectiveCpp/Chapter2/07.md)
+  - [条款08：别让异常逃离析构函数](/EffectiveCpp/Chapter2/08.md)
 
 ## More Effective C++ |> Content
 
