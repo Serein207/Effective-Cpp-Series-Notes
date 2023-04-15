@@ -16,6 +16,9 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款09：绝不在构造和析构过程中调用virtual函数](/EffectiveCpp/Chapter2/09.md)
   - [条款10：令operator=返回一个reference to `*this`](/EffectiveCpp/Chapter2/10.md)
   - [条款11：在operator=中处理“自我赋值”](/EffectiveCpp/Chapter2/11.md)
+  - [条款12：复制对象时勿忘其每一个成分](/EffectiveCpp/Chapter2/12.md)
+- 3 资源管理
+  - [条款13：以对象管理资源](/EffectiveCpp/Chapter3/13.md)
 
 ## More Effective C++ |> Content
 
