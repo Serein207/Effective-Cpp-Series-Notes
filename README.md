@@ -30,7 +30,7 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款21：必须返回对象时，别妄想返回其reference](/EffectiveCpp/Chapter4/21.md) 
   - [条款22：将成员变量声明为private](/EffectiveCpp/Chapter4/22.md)
   - [条款23：宁以non-member、non-friend替换member函数](/EffectiveCpp/Chapter4/23.md)
-  - [若所有参数皆需类型转换，请为此采用non-member函数](/EffectiveCpp/Chapter4/24.md)
+  - [条款24：若所有参数皆需类型转换，请为此采用non-member函数](/EffectiveCpp/Chapter4/24.md)
   - [条款25：考虑写一个不抛异常的swap函数](/EffectiveCpp/Chapter4/25.md)
 - **5 实现**
   - [条款26：尽可能延后变量定义式的出现时间](/EffectiveCpp/Chapter5/26.md)
