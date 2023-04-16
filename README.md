@@ -23,6 +23,11 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款15：在资源管理类中提供对原始资源的访问](/EffectiveCpp/Chapter3/15.md)
   - [条款16：成对使用new和delete时要采用相同形式](/EffectiveCpp/Chapter3/16.md)
   - [条款17：以独立语句将new对象置入智能指针](/EffectiveCpp/Chapter3/17.md)
+- 4 设计与声明
+  - [条款18：让接口容易被正确使用，不易被误用](/EffectiveCpp/Chapter4/18.md)
+  - [条款19：设计class犹如设计type](/EffectiveCpp/Chapter4/19.md)
+  - [条款20：宁以pass-by-reference-to-const替换pass-by-value](/EffectiveCpp/Chapter4/20.md)
+  - [条款21：必须返回对象时，别妄想返回其reference](/EffectiveCpp/Chapter4/21.md) 
 
 ## More Effective C++ |> Content
 
