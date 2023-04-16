@@ -35,7 +35,10 @@ Effective C++, More Effective C++, Effective Modern C++笔记
 - **5 实现**
   - [条款26：尽可能延后变量定义式的出现时间](/EffectiveCpp/Chapter5/26.md)
   - [条款27：尽量少做转型操作](/EffectiveCpp/Chapter5/27.md)
-
+- **6 继承与面向对象设计**
+- **7 模板与泛型编程**
+- **8 定制new和delete**
+- **9 杂项讨论**
 ## More Effective C++ |> Content
 
 ## Effective Modern C++ |> Content
