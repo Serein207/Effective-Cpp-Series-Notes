@@ -19,6 +19,10 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款12：复制对象时勿忘其每一个成分](/EffectiveCpp/Chapter2/12.md)
 - 3 资源管理
   - [条款13：以对象管理资源](/EffectiveCpp/Chapter3/13.md)
+  - [条款14：在资源管理类中小心copying行为](/EffectiveCpp/Chapter3/14.md)
+  - [条款15：在资源管理类中提供对原始资源的访问](/EffectiveCpp/Chapter3/15.md)
+  - [条款16：成对使用new和delete时要采用相同形式](/EffectiveCpp/Chapter3/16.md)
+  - [条款17：以独立语句将new对象置入智能指针](/EffectiveCpp/Chapter3/17.md)
 
 ## More Effective C++ |> Content
 
