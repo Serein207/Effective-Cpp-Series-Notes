@@ -40,6 +40,10 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款30：透彻了解inline的里里外外](/EffectiveCpp/Chapter5/30.md)
   - [条款31：将文件间的编译依存关系降至最低](/EffectiveCpp/Chapter5/31.md)
 - **6 继承与面向对象设计**
+  - [条款32：确定你的public继承建模出is-a关系](/EffectiveCpp/Chapter6/32.md)
+  - [条款33：避免遮蔽继承而来的名称](/EffectiveCpp/Chapter6/33.md)
+  - [条款34：区分接口继承和实现继承](/EffectiveCpp/Chapter6/34.md)
+  - [条款35：考虑virtual函数以外的其他选择](/EffectiveCpp/Chapter6/35.md)
 - **7 模板与泛型编程**
 - **8 定制new和delete**
 - **9 杂项讨论**
