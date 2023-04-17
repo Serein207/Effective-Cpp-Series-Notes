@@ -35,6 +35,10 @@ Effective C++, More Effective C++, Effective Modern C++笔记
 - **5 实现**
   - [条款26：尽可能延后变量定义式的出现时间](/EffectiveCpp/Chapter5/26.md)
   - [条款27：尽量少做转型操作](/EffectiveCpp/Chapter5/27.md)
+  - [条款28：避免返回handles执行对象内部成分](/EffectiveCpp/Chapter5/28.md)
+  - [条款29：为“异常安全”而努力是值得的](/EffectiveCpp/Chapter5/29.md)
+  - [条款30：透彻了解inline的里里外外](/EffectiveCpp/Chapter5/30.md)
+  - [条款31：将文件间的编译依存关系降至最低](/EffectiveCpp/Chapter5/31.md)
 - **6 继承与面向对象设计**
 - **7 模板与泛型编程**
 - **8 定制new和delete**
