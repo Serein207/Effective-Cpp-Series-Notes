@@ -47,6 +47,7 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款36：绝不重新定义继承而来的non-virtual函数](/EffectiveCpp/Chapter6/36.md)
   - [条款37：绝不重新定义继承而来的缺省参数值](/EffectiveCpp/Chapter6/37.md)
   - [条款38：通过复合建模出has-a或“根据某物实现出”](/EffectiveCpp/Chapter6/38.md)
+  - [条款39：明智而谨慎地使用private继承](/EffectiveCpp/Chapter6/39.md)
 - **7 模板与泛型编程**
 - **8 定制new和delete**
 - **9 杂项讨论**
