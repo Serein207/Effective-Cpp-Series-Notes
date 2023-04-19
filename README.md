@@ -50,6 +50,7 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款39：明智而谨慎地使用private继承](/EffectiveCpp/Chapter6/39.md)
   - [条款40：明智而谨慎地使用多重继承](/EffectiveCpp/Chapter6/40.md)
 - **7 模板与泛型编程**
+  - [条款41：了解隐式接口和编译期多态](/EffectiveCpp/Chapter7/41.md)
 - **8 定制new和delete**
 - **9 杂项讨论**
 ## More Effective C++ |> Content
