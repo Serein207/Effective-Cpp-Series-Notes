@@ -57,6 +57,7 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款45：运用成员函数模板接受所有兼容类型](/EffectiveCpp/Chapter7/45.md)
   - [条款46：需要类型转换时请为模板定义非成员函数](/EffectiveCpp/Chapter7/46.md)
   - [条款47：请使用traits classes表现类型信息](/EffectiveCpp/Chapter7/47.md)
+  - [条款48：认识template元编程](/EffectiveCpp/Chapter7/48.md)
 - **8 定制new和delete**
   - [条款49：了解new-handler的行为](/EffectiveCpp/Chapter8/49.md)
 - **9 杂项讨论**
