@@ -60,7 +60,13 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款48：认识template元编程](/EffectiveCpp/Chapter7/48.md)
 - **8 定制new和delete**
   - [条款49：了解new-handler的行为](/EffectiveCpp/Chapter8/49.md)
+  - [条款50：了解new和delete的合理替换时机](/EffectiveCpp/Chapter8/50.md)
+  - [条款51：编写new和delete时需固守常规](/EffectiveCpp/Chapter8/51.md)
+  - [条款52：写了placement new也要写placement delete](/EffectiveCpp/Chapter8/52.md)
 - **9 杂项讨论**
+  - [条款53：不要忽视编译器地警告](/EffectiveCpp/Chapter9/53.md)
+  - [条款54：让自己熟悉包括TR1在内的标准程序库](/EffectiveCpp/Chapter9/54.md)
+  - [条款55：让自己熟悉Boost](/EffectiveCpp/Chapter9/55.md)
 ## More Effective C++ |> Content
 
 ## Effective Modern C++ |> Content
