@@ -64,7 +64,7 @@ Effective C++, More Effective C++, Effective Modern C++笔记
   - [条款51：编写new和delete时需固守常规](/EffectiveCpp/Chapter8/51.md)
   - [条款52：写了placement new也要写placement delete](/EffectiveCpp/Chapter8/52.md)
 - **9 杂项讨论**
-  - [条款53：不要忽视编译器地警告](/EffectiveCpp/Chapter9/53.md)
+  - [条款53：不要忽视编译器的警告](/EffectiveCpp/Chapter9/53.md)
   - [条款54：让自己熟悉包括TR1在内的标准程序库](/EffectiveCpp/Chapter9/54.md)
   - [条款55：让自己熟悉Boost](/EffectiveCpp/Chapter9/55.md)
 ## More Effective C++ |> Content
